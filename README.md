@@ -1,38 +1,52 @@
-# Hi there, I'm Abdullah Al Fahad   from Bangladesh 
+<h1 align="center">Hi, I'm Abdullah Al Fahad 👋</h1>
 
-📊 **Professional Data Analyst & Statistician** | Transforming raw data into actionable insights
+<p align="center">
+  <b>Data Analyst | Power BI Expert | Excel & SQL Enthusiast | Storyteller with Data 📊</b>
+</p>
 
-## 🔧 Technical Skills
-- **Data Visualization**: Power BI, Excel 
-- **Programming**: SQL, R, Python (Pandas, NumPy)
-- **Statistical Analysis**: SPSS, Excel (Advanced)
-- **Database**: MySQL, PostgreSQL
-- **Version Control**: Git, GitHub
+---
 
-## 🚀 Featured Projects
-### 1. [Project Name] - [Brief Description]
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_project-blue?logo=github)](link-to-repo)
-- Analyzed [dataset] to uncover [key insight]
-- Built interactive dashboard in Power BI showing [results]
-- Implemented [specific technique] to improve [metric] by X%
+### 👨‍💻 About Me
 
-### 2. [Project Name] - [Brief Description]
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_project-blue?logo=github)](link-to-repo)
-- Developed predictive model using R to forecast [outcome]
-- Cleaned and transformed dataset of [size] using SQL
-- Achieved [specific result] with [metric] improvement
+I'm **Abdullah Al Fahad**, a passionate and detail-oriented **Data Analyst** with 2+ years of experience transforming raw data into actionable insights. Currently pursuing a **BSc in Statistics** at **Begum Rokeya University, Rangpur**, I specialize in:
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+- 📈 **Power BI Dashboards** and data modeling using DAX
+- 📊 **Excel** (advanced formulas, pivot tables, charts)
+- 🧮 **SQL** (data extraction, joins, aggregations)
+- 🐍 Learning **Python** for data analysis and automation
+- 💡 Turning data into stories that influence decisions
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+---
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your-email)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](your-portfolio-url)
+### 🔧 Tools & Technologies
 
-## 💡 Currently Learning
-- Machine Learning with Python
-- Advanced Data Visualization Techniques
-- Cloud Data Platforms (AWS, Azure)
+| Power BI | Excel | SQL | Python | SPSS | DAX | Power Query |
+|----------|-------|-----|--------|------|-----|-------------|
+
+---
+
+### 📌 Featured Projects
+
+- **🧠 Customer Behavior Analysis Dashboard**
+  - Tools: Power BI, DAX, Power Query
+  - Analyzed return patterns, satisfaction by payment method, review scores, and time-on-site behavior.
+
+- **🔌 Electric Vehicle Market Dashboard**
+  - Tools: Power BI, SQL
+  - Tracked electric vehicle distribution, brand dominance, and adoption trends across states.
+
+- **📦 E-commerce Insights**
+  - Tools: Power BI, Excel
+  - Explored customer demographics, average purchase value, discount effects, and return behaviors.-
+
+### 📫 Let’s Connect
+
+- 📧 Email: your.email@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 🖥️ [Portfolio Website](https://yourwebsite.com)  
+- 📁 [Check my Projects](https://github.com/yourusername)
+
+---
+
+> “Without data, you're just another person with an opinion.” – W. Edwards Deming
+
