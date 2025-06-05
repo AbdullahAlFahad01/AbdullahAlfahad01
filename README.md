@@ -1,9 +1,9 @@
-# Hi there, I'm [Abdullah Al Fahad ]  from Bangladesh 👋
+# Hi there, I'm Abdullah Al Fahad   from Bangladesh 
 
-📊 **Professional Data Analyst** | Transforming raw data into actionable insights
+📊 **Professional Data Analyst & Statistician** | Transforming raw data into actionable insights
 
 ## 🔧 Technical Skills
-- **Data Visualization**: Power BI, Tableau, ggplot2
+- **Data Visualization**: Power BI, Excel 
 - **Programming**: SQL, R, Python (Pandas, NumPy)
 - **Statistical Analysis**: SPSS, Excel (Advanced)
 - **Database**: MySQL, PostgreSQL
