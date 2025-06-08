@@ -43,7 +43,7 @@ I'm **Abdullah Al Fahad**, a passionate and detail-oriented **Data Analyst** wit
 ### 📫 Let’s Connect
 
 - 📧 Email:fahadbinshah34@gmail.com
-- 💼 [LinkedIn](:https://www.linkedin.com/in/abdullahalfahad01/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdullahalfahad01/)  
 - 🖥️ [Portfolio Website](https://sites.google.com/view/fahadtheanalyst/portfolio)  
 )
 
