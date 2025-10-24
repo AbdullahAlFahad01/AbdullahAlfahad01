@@ -17,7 +17,8 @@ I'm **Abdullah Al Fahad**, a passionate and detail-oriented **Data Analyst** wit
 - 📊**Google Looker Studio**(Data visualization)
 - 💡 Turning data into stories that influence decisions
 
----
+📃[Resume](https://drive.google.com/drive/folders/1EBNz9f-ZaEte-6WA8PIgZfL8PHwtoRZ3?usp=sharing)
+[Portfolio](https://abdullahalfahad01.github.io/AbdullahAlFahad/)
 
 ### 🔧 Tools & Technologies
 
