@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/AbdullahAlFahad01/AbdullahAlfahad01/blob/main/DATA%20Analysis.jpg" alt="GitHub Banner" width="100%">
+  <img src="https://github.com/AbdullahAlFahad01/AbdullahAlfahad01/blob/main/DATA%20Analysis%20(1).jpg" alt="GitHub Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Abdullah Al Fahad 👋</h1>
