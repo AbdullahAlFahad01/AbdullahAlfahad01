@@ -26,10 +26,19 @@ I'm **Abdullah Al Fahad**, a passionate and detail-oriented **Data Analyst** wit
 [Portfolio](https://abdullahalfahad01.github.io/AbdullahAlFahad/)
 
 ### 🔧 Tools & Technologies
+### ⚙️ Tech Stack
+<p align="center">
+  <!-- Core Skills -->
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,scikitlearn,tensorflow,pytorch,anaconda,git,github,vscode,sql" />
+</p>
 
-| Power BI | Excel | SQL | Python | SPSS | DAX | Power Query |
-|----------|-------|-----|--------|------|-----|-------------|
-
+<p align="center">
+  <!-- Data Visualization & Analytics Tools -->
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?logo=looker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" />
+</p>
 
 
  
