@@ -3,6 +3,13 @@
   <img src="https://github.com/AbdullahAlFahad01/AbdullahAlfahad01/blob/main/DATA%20Analysis%20(1).jpg" alt="GitHub Banner" width="100%">
 </p>
 
+<!-- Typing animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Fahad+Bin+Shah!;Data+Scientist +%7C+ ML+Enthusiast +%7C+Data+Analyst +%7C + Business Intellegence +%7C +%7C AI+Explorer;Turning+Data+Into+Decisions+🚀">
+</h1>
+
+---
+
 ### 👨‍💻 About Me
 
 I'm **Abdullah Al Fahad**, a passionate and detail-oriented **Data Analyst** with 2+ years of experience transforming raw data into actionable insights. Currently pursuing a **BSc in Statistics** at **Begum Rokeya University, Rangpur**, I specialize in:
@@ -46,12 +53,7 @@ I'm **Abdullah Al Fahad**, a passionate and detail-oriented **Data Analyst** wit
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdullahalfahad01/)  
 
 
-<!-- Typing animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Fahad+Bin+Shah!;Data+Analyst+%7C+ML+Enthusiast+%7C+AI+Explorer;Turning+Data+Into+Decisions+🚀">
-</h1>
 
----
 
 
 
