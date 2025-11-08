@@ -120,3 +120,13 @@ I'm **Abdullah Al Fahad**, a passionate and detail-oriented **Data Analyst** wit
 <p align="center">
   ✨ *“Data is the new oil, but intelligence is the refinery.”* ✨
 </p>
+
+![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)
+![GitHub Following](https://img.shields.io/github/following/yourusername?label=Following&style=social)
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/fahadbinshah?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/following/fahadbinshah?label=Following&style=social" />
+  <a href="https://linkedin.com/in/fahadbinshah"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:fahad@example.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&logoColor=white" /></a>
+</p>
