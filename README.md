@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Fahad+Bin+Shah!;Data+Scientist +%7C+ ML+Enthusiast +%7C+Data+Analyst +%7C + Business Intellegence +%7C +%7C AI+Explorer;Turning+Data+Into+Decisions+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Abdullah+Al+Fahad!;Data+Scientist +%7C+ ML+Enthusiast +%7C+ Data+Analyst +%7C + Business Intellegence +%7C+ AI+Explorer;Turning+Data+Into+Decisions+🚀">
 </h1>
 
 ---
