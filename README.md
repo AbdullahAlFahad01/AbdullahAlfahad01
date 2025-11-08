@@ -57,24 +57,12 @@ I'm **Abdullah Al Fahad**, a passionate and detail-oriented **Data Analyst** wit
 
 
 
-### 🚀 Featured Projects
-<h3>Business Insights 360</h3>
-<p align="center">
-  <a href="https://github.com/AbdullahAlFahad01/Business-Insights-360">
-    <img src="https://github.com/AbdullahAlFahad01/Business-Insights-360/blob/main/Finance%20View.png" />
-  </a>
-  <a href="https://github.com/yourusername/ml-regression">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ml-regression&theme=tokyonight" />
-  </a>
-</p>
-
----
 
 ### 🌍 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:fahad@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdullahalfahad01/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="fahadbinshah34@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  
 </p>
 
 ---
@@ -93,23 +81,8 @@ I'm **Abdullah Al Fahad**, a passionate and detail-oriented **Data Analyst** wit
 
 ---
 
-### 🧮 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" alt="GitHub Activity Graph"/>
-</p>
-
----
 
 <p align="center">
   ✨ *“Data is the new oil, but intelligence is the refinery.”* ✨
 </p>
 
-![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)
-![GitHub Following](https://img.shields.io/github/following/yourusername?label=Following&style=social)
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/fahadbinshah?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/following/fahadbinshah?label=Following&style=social" />
-  <a href="https://linkedin.com/in/fahadbinshah"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:fahad@example.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&logoColor=white" /></a>
-</p>
