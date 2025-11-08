@@ -3,24 +3,22 @@
   <img src="https://github.com/AbdullahAlFahad01/AbdullahAlfahad01/blob/main/DATA%20Analysis%20(1).jpg" alt="GitHub Banner" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Abdullah Al Fahad 👋</h1>
-
-<p align="center">
-  <b>Data Analyst | Power BI & Excel Dashboard Expert |  Storyteller with Data 📊</b>
-</p>
-
----
-
 ### 👨‍💻 About Me
 
 I'm **Abdullah Al Fahad**, a passionate and detail-oriented **Data Analyst** with 2+ years of experience transforming raw data into actionable insights. Currently pursuing a **BSc in Statistics** at **Begum Rokeya University, Rangpur**, I specialize in:
 
+-💡 **Curious mind** passionate about **Data Science, Machine Learning & AI**  
 - 📈 **Power BI Dashboards** and data modeling using DAX
 - 📊 **Excel** (advanced formulas, pivot tables, charts,Power query)
 - 🧮 **SQL** (data extraction, joins, aggregations)
-- 🐍**Python**(Numpy,pandas,matplotlib,Seaborn)
+- 🐍**Python**(Numpy,pandas,matplotlib,Seaborn,Scikit-Learn)
 - 📊**Google Looker Studio**(Data visualization)
+- 💬 Ask me about **data analysis, visualization, and ML models** 
+
+ 
+📫 Reach me: [fahadbinshah34@gmail.com](mailto:fahadbinshah34@gmail.com)  
 - 💡 Turning data into stories that influence decisions
+
 
 📃[Resume](https://drive.google.com/drive/folders/1EBNz9f-ZaEte-6WA8PIgZfL8PHwtoRZ3?usp=sharing)
 [Portfolio](https://abdullahalfahad01.github.io/AbdullahAlFahad/)
@@ -55,15 +53,7 @@ I'm **Abdullah Al Fahad**, a passionate and detail-oriented **Data Analyst** wit
 
 ---
 
-### 🧭 About Me  
-💡 **Curious mind** passionate about **Data Science, Machine Learning & AI**  
-🎯 Focused on building **data-driven solutions** and **interactive dashboards**  
-📊 Skilled in **Python, Power BI, SQL, Pandas, Scikit-learn**  
-🌱 Currently exploring **Deep Learning and Generative AI**  
-💬 Ask me about **data analysis, visualization, and ML models**  
-📫 Reach me: [fahad@example.com](mailto:fahad@example.com)  
 
----
 
 ### ⚙️ Tech Stack
 <p align="center">
@@ -72,22 +62,12 @@ I'm **Abdullah Al Fahad**, a passionate and detail-oriented **Data Analyst** wit
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&count_private=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="160">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" height="160"/>
-</p>
-
 ---
 
 ### 🚀 Featured Projects
 <p align="center">
-  <a href="https://github.com/yourusername/powerbi-sales-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=powerbi-sales-dashboard&theme=tokyonight" />
+  <a href="https://github.com/AbdullahAlFahad01/Business-Insights-360">
+    <img src="https://github.com/AbdullahAlFahad01/Business-Insights-360/blob/main/Business_Insights_360.pdf" />
   </a>
   <a href="https://github.com/yourusername/ml-regression">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ml-regression&theme=tokyonight" />
