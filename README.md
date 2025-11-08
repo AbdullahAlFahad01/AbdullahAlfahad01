@@ -55,19 +55,13 @@ I'm **Abdullah Al Fahad**, a passionate and detail-oriented **Data Analyst** wit
 
 
 
-### ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,anaconda,pandas,numpy,scikitlearn,tensorflow,pytorch,sql,git,github,vscode,powerbi" />
-</p>
 
----
-
----
 
 ### 🚀 Featured Projects
+<h3>Business Insights 360</h3>
 <p align="center">
   <a href="https://github.com/AbdullahAlFahad01/Business-Insights-360">
-    <img src="https://github.com/AbdullahAlFahad01/Business-Insights-360/blob/main/Business_Insights_360.pdf" />
+    <img src="https://github.com/AbdullahAlFahad01/Business-Insights-360/blob/main/Finance%20View.png" />
   </a>
   <a href="https://github.com/yourusername/ml-regression">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ml-regression&theme=tokyonight" />
